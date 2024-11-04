@@ -1,2 +1,2 @@
 ﻿# alura-geek
-# Lojinha virtual 
+ Lojinha virtual 
